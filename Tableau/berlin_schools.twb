@@ -12,7 +12,7 @@
     <WorksheetBackgroundTransparency />
     <ZoneBackgroundTransparency />
   </document-format-change-manifest>
-  <repository-location id='Book2_16011299004580' path='/workbooks' revision='1.4' />
+  <repository-location id='Book2_16011299004580' path='/workbooks' revision='1.5' />
   <preferences>
     <preference name='ui.encoding.shelf.height' value='24' />
     <preference name='ui.shelf.height' value='26' />
@@ -2904,7 +2904,7 @@
         <zone h='39011' id='9' name='Movemements' w='46716' x='51677' y='6358' />
         <zone custom-title='true' h='5859' id='7' mode='compact' param='[Parameters].[Parameter 1]' type='paramctrl' w='21387' x='77637' y='651'>
           <formatted-text>
-            <run bold='true' fontcolor='#000000' fontname='Bahnschrift SemiLight SemiConde' underline='true'>Schuljahr  </run>
+            <run bold='true' fontcolor='#000000' fontname='Tableau Bold'>Schuljahr  </run>
           </formatted-text>
         </zone>
         <zone h='9896' id='10' name='Movemements' pane-specification-id='0' param='[federated.1o8i2me03y2ra619ddggf1fe9iqu].[none:Calculation_714383521090220032 2:qk]' type='color' w='13672' x='81738' y='17188' />
