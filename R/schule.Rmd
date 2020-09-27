@@ -65,7 +65,7 @@ geocode.addresses <- function(DT) {
 
   DT.has.address$address <- paste(DT.has.address$ADRESSE, " ", DT$ORTSTEIL, " ", DT$F_PLZ)
 
-  DT.with.coord <- mutate_geocode(DT.has.address, address, key = "AIzaSyCTvVec55sTt4aymZ4Vin_P3nJ6WD2IHLk")
+  DT.with.coord <- mutate_geocode(DT.has.address, address, key = "XXXXX")
   DT.has.address.coord <- DT.with.coord[, c("School_ID", "Name", "lon", "lat")]
 
   DT.no.address$address <- paste(DT.no.address$Name, " ", "Schule Berlin Germany")
