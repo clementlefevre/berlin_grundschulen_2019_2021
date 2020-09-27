@@ -1,0 +1,45 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+```{r}
+
+library(tabulizer)
+
+#f <-  locate_areas("../data/anfrage_zu_einschulungen_2020.pdf", pages = 6)
+
+toCrop1.a <-  c(top = 203.46827956989, left = 23.65948129722, bottom = 811.759946236559, 
+right = 577.88108109843)
+topCrop1.c <- c(top = 131.01666666667, left = 22.149340698306, bottom = 511.3876344086, 
+right = 574.86079990061)
+toCrop1.b <-  c(top = 129.50725806452, left = 22.149340698306, bottom = 810.250537634409, 
+right = 577.88108109843)
+
+toCrop2.a <-  c(top = 171.6064516129, left = 21.263167846222, bottom = 556.867204301075, 
+right = 824.1899976984)
+toCrop2.b <-  c(top = 124.64946236559, left = 19.127724149807, bottom = 561.136021505376, 
+right = 822.05455400199)
+
+df1 <-  extract_tables("../data/anfrage_zu_einschulungen_2020.pdf",area = c(list(toCrop1.a),list(topCrop1.c), rep(list(toCrop1.b), 10)) ,pages=seq(5,16,1))
+df2 <-  extract_tables("../data/anfrage_zu_einschulungen_2020.pdf",area = c(list(toCrop2.a), rep(list(toCrop2.b), 14)),pages=seq(17,31,1))
+
+
+DT1 <-  rbindlist(lapply(df1,as.data.frame),use.names=T, fill=T)
+DT2 <-  rbindlist(lapply(df2,as.data.frame),use.names=T, fill=T)
+
+write.csv(DT1,"../data/DT1_raw.csv")
+write.csv(DT2,"../data/DT2_raw.csv")
+
+## manual adjustment necessary !!!!
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.

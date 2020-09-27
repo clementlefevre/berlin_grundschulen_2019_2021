@@ -1,0 +1,408 @@
+School_ID,Name,lon,lat
+01G01,Grundschule am Arkonaplatz,13.4003901,52.53684
+01G01,Grundschule am Arkonaplatz  / SESB,13.4003901,52.53684
+01G02,Papageno-Grundschule,13.3911746,52.5327417
+01G04,Kastanienbaum-Grundschule,13.4018,52.52678
+01G05,Grundschule Neues Tor,13.38033,52.52759
+01G05,Grundschule Neues Tor  / SESB,13.38033,52.52759
+01G07,GutsMuths-Grundschule,13.4239517,52.5164193
+01G08,Grundschule am Brandenburger Tor,13.3828681,52.5131155
+01G08,Grundschule am Brandenburger Tor  /  SESB,13.3828681,52.5131155
+01G10,City-Grundschule,13.40892,52.50737
+01G11,Kurt-Tucholsky-Grundschule,13.35303,52.53026
+01G15,Anne-Frank-Grundschule,13.3553702,52.5185441
+01G16,Moabiter Grundschule,13.35657,52.5219744
+01G18,Carl-Bolle-Grundschule,13.3322606,52.5287532
+01G19,Hansa Grundschule,13.34019,52.5214
+01G24,Gottfried-Röhl-Grundschule,13.35724,52.5571315
+01G25,Rudolf-Wissell-Grundschule,13.3961101,52.551576
+01G27,Gesundbrunnen-Grundschule,13.3828669,52.5533512
+01G28,Brüder-Grimm-Grundschule,13.3578141,52.5414735
+01G29,Wilhelm-Hauff-Grundschule,13.3843568,52.5577854
+01G31,Wedding-Grundschule,13.3638673,52.5468117
+01G32,Carl-Kraemer-Grundschule,13.3827129,52.5611361
+01G35,Humboldthain-Grundschule,13.380278,52.5435081
+01G36,Andersen-Grundschule,13.3889099,52.56553
+01G37,Heinrich-Seidel-Grundschule,13.39407,52.54695
+01G38,Gustav-Falke-Grundschule,13.39162,52.53795
+01G39,Vineta-Grundschule,13.3970734,52.5421668
+01G40,Möwensee-Grundschule,13.3337501,52.55575
+01G41,Erika-Mann-Grundschule,13.35786,52.55099
+01G42,Anna-Lindh-Grundschule,13.3419394,52.550548
+01G43,Albert-Gutzmann-Schule,13.373335,52.5491887
+01G44,Allegro-Grundschule,13.3650508,52.5069115
+01G45,Leo-Lionni-Grundschule,13.3509304,52.5411171
+01G46,Grundschule am Koppenplatz,13.3974622,52.5279258
+01G47,Miriam-Makeba-Grundschule,13.3314459,52.5223198
+01K04,Heinrich-von-Stephan-Schule,13.3167137,52.5247745
+02G01,Spartacus-Grundschule,13.43582,52.52106
+02G02,Hausburg-Grundschule,13.4542842,52.5241974
+02G02,Hausburg-Grundschule (SESB),13.4542842,52.5241974
+02G03,Justus-v.-Liebig-Grundschule,13.45812,52.5188704
+02G04,Pettenkofer-Grundschule,13.4709998,52.5186561
+02G07,Ludwig-Hoffmann-Grundschule,13.4488861,52.5143567
+02G08,Grundschule am Traveplatz,13.4718545,52.511492
+02G09,Zille-Grundschule,13.4652946,52.5089841
+02G10,Modersohn-Grundschule,13.4602401,52.50705
+02G11,Thalia-Grundschule,13.476151,52.4928814
+02G12,Kurt-Schumacher-Grundschule,13.3885155,52.5051039
+02G13,Charlotte-Salomon-Grundschule,13.3989037,52.4853765
+02G14,Galilei-Grundschule,13.3917152,52.501744
+02G14,Galilei-Grundschule/SESB,13.3917152,52.501744
+02G18,Nürtingen-Grundschule,13.4265763,52.5054197
+02G19,Fanny-Hensel-Grundschule,13.3783562,52.4985969
+02G20,Bürgermeister-Herz-Grundschule,13.4051463,52.4949643
+02G21,Reinhardswald-Grundschule,13.3999,52.49059
+02G22,Jens-Nydahl-Grundschule,13.4160825,52.4971355
+02G23,Fichtelgebirge-Grundschule,13.4334017,52.5004054
+02G24,Otto-Wels-Grundschule,13.4016232,52.4999227
+02G26,Lemgo-Grundschule,13.4161407,52.4909261
+02G26,Lemgo-Grundschule (SESB),13.4161407,52.4909261
+02G27,Hunsrück-Grundschule,13.426632,52.4977316
+02G29,Heinrich-Zille-Grundschule,13.4291834,52.5007392
+02G31,Adolf-Glaßbrenner-Grundschule,13.3807594,52.491504
+02G32,Clara-Grunwald-Grundschule,13.3848935,52.500939
+02G33,Aziz-Nesin-Grundschule,13.4054549,52.4931543
+02G34,Jane-Goodall-Grundschule,13.4677775,52.5127707
+02G35,Rosa-Parks-Grundschule,13.4314741,52.4948978
+02K02,Carl-von-Ossietzky-Schule,13.4046661,52.4916692
+02K04,Lina-Morgenstern-Schule,13.3898566,52.4921668
+02S01,Temple-Grandin-Schule,13.4489152,52.5143727
+03G01,Grundschule am Hamburger Platz,13.43681,52.55381
+03G02,Heinrich-Roller-Grundschule,13.4236317,52.5306837
+03G03,Grundschule am Kollwitzplatz,13.4148901,52.53768
+03G04,Grundschule an der Marie,13.4255886,52.5361463
+03G05,Homer-Grundschule,13.43237,52.53371
+03G06,Bötzow-Grundschule,13.4395457,52.534897
+03G08,Grundschule am Planetarium,13.4310942,52.5413687
+03G09,Thomas-Mann-Grundschule,13.4147901,52.54663
+03G10,Grundschule am Hohen Feld,13.4965805,52.6153129
+03G11,Grundschule am Falkplatz,13.4061705,52.547235
+03G12,Paul-Lincke-Grundschule,13.44553,52.54129
+03G13,Rudolf-Dörrier-Grundschule,13.3760807,52.5916014
+03G14,Bornholmer-Grundschule,13.40768,52.55572
+03G15,Grundschule am Senefelder Platz,13.41187,52.53452
+03G16,Teutoburger-Grundschule,13.4200047,52.5395692
+03G17,Grundschule am Weißen See,13.4574881,52.5551967
+03G18,Picasso-Grundschule,13.461082,52.547821
+03G20,Grundschule im Moselviertel,13.4769922,52.5594237
+03G21,Grundschule unter den Bäumen,13.4544218,52.5922623
+03G22,Grundschule am Wasserturm,13.41382,52.55644
+03G23,Grundschule Alt-Karow,13.4797344,52.6094001
+03G24,Panketal-Grundschule,13.4861686,52.620814
+03G25,Carl-Human-Grundschule,13.42173,52.55101
+03G26,Arnold-Zweig-Grundschule,13.4001199,52.5686803
+03G27,Elizabeth-Shaw-Grundschule,13.4104435,52.5683036
+03G28,Grundschule im Hasengrund,13.4105968,52.5908029
+03G29,Grundschule Am Sandhaus,13.4914197,52.6373595
+03G32,Grundschule an den Buchen,13.3945566,52.5790744
+03G33,Jeanne-Barez-Grundschule,13.43415,52.60417
+03G34,Mendel-Grundschule,13.415562,52.5738137
+03G35,Platanen-Grundschule,13.3893765,52.6181346
+03G36,Elisabeth-Christinen-Grundschule,13.4181304,52.582521
+03G37,Klecks-Grundschule,13.4075845,52.5597617
+03G38,Grundschule im Blumenviertel,13.4580741,52.535141
+03G39,Wolkenstein-Grundschule,13.42024,52.56527
+03G40,Grundschule im Birkenhof,13.42388,52.60791
+03G41,Trelleborg-Grundschule,13.4218178,52.5560121
+03G43,Grundschule Wilhelmsruh,13.3642087,52.5903085
+03G44,Georg-Zacharias-Grundschule,13.4751476,52.5521787
+03G45,Grundschule im Hofgarten,13.4200047,52.5395692
+03G46,Grundschule im Eliashof,13.4227303,52.5407809
+03G47,Grundschule an der Strauchwiese,13.4179741,52.578037
+03K07,Telsa-Gemeinschaftsschule,13.4460613,52.5290862
+03K11,Wilhelm-v-Humboldt-Gemeinschaftsschule,13.42345,52.54862
+04G01,Eichendorff-Grundschule,13.3128111,52.5093724
+04G02,Lietzensee-Grundschule,13.29502,52.5094
+04G04,Joan-Miró-Grundschule,13.3201401,52.50357
+04G04,Joan-Miró-Grundschule - (SESB),13.3201401,52.50357
+04G05,Dietrich-Bonhoeffer-Grundschule,13.2608658,52.521283
+04G06,Wald-Grundschule,13.259,52.50259
+04G07,Ludwig-Cauer-Grundschule,13.3151358,52.5150342
+04G08,Mierendorff-Grundschule,13.30288,52.52348
+04G09,Erwin-von-Witzleben-Grundschule,13.2873,52.53967
+04G12,Schinkel-Grundschule,13.2987601,52.51782
+04G13,Nehring-Grundschule,13.2938654,52.514893
+04G14,Reinhold-Otto-Grundschule,13.2683992,52.513329
+04G15,Charles-Dickens-Grundschule,13.2378616,52.5089629
+04G15,Charles-Dickens-Grundschule - (SESB),13.2378616,52.5089629
+04G17,Johann-Peter-Hebel-Grundschule,13.3193353,52.4951799
+04G18,Ernst-Habermann-Grundschule,13.3347828,52.4823859
+04G19,Grundschule am Rüdesheimer Platz,13.31312,52.47113
+04G20,Katharina-Heinroth-Grunds. - (SESB),13.3037498,52.4922134
+04G20,Katharina-Heinroth-Grundschule,13.3037498,52.4922134
+04G21,Halensee-Grundschule,13.2961327,52.4999286
+04G22,Grunewald-Grundschule,13.2107327,52.4675293
+04G23,Alt-Schmargendorf-Grundschule,13.29355,52.47694
+04G24,Carl-Orff-Grundschule,13.28709,52.47841
+04G25,Cecilien-Grundschule,13.3278444,52.4934877
+04G26,Birger-Forell-Grundschule,13.3218927,52.4807258
+04G27,Judith-Kerr-Grundschule - (SESB),13.2950561,52.475327
+04K04,Nelsen-Mandela-Schule,13.3216656,52.4936856
+04K05,Paula-Fürst-Schule,13.3019395,52.5022231
+04S04,Reinfelder-Schule,13.2355484,52.5026955
+04S07,Comenius-Schule,13.3179539,52.488686
+05G01,Ernst-Ludwig-Heim-G/ Sprachheilkl,13.205684,52.530899
+05G01,Ernst-Ludwig-Heim-Grundschule,13.205684,52.530899
+05G02,Grundschule am Eichenwald,13.1991027,52.5582843
+05G04,Klosterfeld-Grundschule,13.1803945,52.5386136
+05G05,Christoph-Földerich-Grundschule,13.1916922,52.5076685
+05G06,Siegerland-Grundschule,13.1764601,52.55115
+05G07,Lynar-Grundschule,13.2073653,52.5475658
+05G08,Konkordia-Grundschule,13.19202,52.53018
+05G10,Grundschule am Birkenhain,13.1800298,52.5256931
+05G11,Robert-Reinick-Grundschule,13.2727701,52.54065
+05G12,Grundschule am Weinmeisterhorn,13.1742271,52.5082497
+05G13,Bernd-Ryke-Grundschule,13.2325123,52.5444991
+05G14,Linden-Grundschule,13.1408099,52.53517
+05G15,Askanier-Grundschule,13.1924201,52.54049
+05G16,Zeppelin-Grundschule,13.14635,52.5409
+05G17,Astrid-Lindgren-Grundschule,13.1431864,52.5348604
+05G18,Grundschule im Beerwinkel,13.1549685,52.5490233
+05G19,Grundschule am Ritterfeld,13.1383574,52.4552389
+05G20,Carl-Schurz-Grundschule,13.1990604,52.56751
+05G21,Paul-Moor-Grundschule,13.19029,52.521
+05G22,Christian-Morgenstern-Grundschule,13.16816,52.5227
+05G23,Grundschule am Brandwerder,13.1530355,52.5361672
+05G24,Grundschule am Windmühlenberg,13.17431,52.48547
+05G25,Grundschule am Wasserwerk,13.1646701,52.55625
+05G26,Grundschule am Amalienhof,13.1670557,52.5131258
+05G27,Peter-Härtling-Grundschule,13.1993561,52.5438501
+05G28,Grundschule an der Pulvermühle,13.226706,52.544309
+05G29,Mary-Poppins-Grundschule,13.1277336,52.4721227
+05K05,B.-Traven-GemS,13.1740447,52.5468982
+06G01,Nord-Grundschule,13.2564431,52.4362795
+06G02,Süd-Grundschule,13.257813,52.4192447
+06G03,Johannes-Tews-Grundschule,13.2126241,52.4316107
+06G04,Erich-Kästner-Grundschule,13.2831987,52.4581405
+06G05,Conrad-Grundschule,13.1466952,52.4151806
+06G06,Mühlenau-Grundschule,13.2762216,52.4434287
+06G07,Zinnowwald-Grundschule,13.2464701,52.4451221
+06G08,Schweizerhof-Grundschule,13.26571,52.42278
+06G09,Dreilinden-Grundschule,13.1855258,52.4204056
+06G10,Grundschule am Buschgraben,13.2429397,52.4219173
+06G12,Quentin-Blake-Grundschule (Regelzug),13.2885484,52.4532523
+06G12,"Quentin-Blake-Grundschule - Staatliche Europa-Schule Berlin (SESB)""""",13.2885484,52.4532523
+06G14,Sachsenwald-Grundschule,13.3371253,52.4622367
+06G15,Dunant-Grundschule,13.31818,52.46486
+06G16,Rothenburg-Grundschule,13.31302,52.45398
+06G17,Grundschule am Insulaner,13.3495165,52.4518099
+06G18,Athene-Grundschule (Regelzug),13.2903455,52.4404192
+06G18,Athene-Grundschule - (SESB),13.2903455,52.4404192
+06G20,Alt-Lankwitzer-Grundschule,13.3510956,52.4370227
+06G21,Paul-Schneider-Grundschule,13.34023,52.43062
+06G22,Giesensdorfer-Grundschule,13.3075806,52.4212494
+06G23,Kronach-Grundschule,13.3130976,52.4416699
+06G24,Grundschule unter den Kastanien,13.3247038,52.4256112
+06G25,Clemens-Brentano-Grundschule,13.29316,52.4335107
+06G26,Käthe-Kruse-Grundschule,13.3099244,52.4379708
+06G27,Grundschule am Königsgraben,13.34815,52.42303
+06G28,Ludwig-Bechstein-Grundschule,13.36236,52.43255
+06G29,Grundschule am Karpfenteich,13.3328218,52.4174078
+06G30,Mercator-Grundschule,13.3173755,52.4122498
+06G31,Grundschule an der Bäke,13.3188236,52.4478136
+06S01,Pestalozzi-Schule,13.2480322,52.443133
+07G01,Spreewald-Grundschule,13.3566254,52.4956
+07G02,Finow-Grundschule,13.3425406,52.4982268
+07G02,Finow-Grundschule - (SESB),13.3425406,52.4982268
+07G03,Werbellinsee-Grundschule,13.3482358,52.495036
+07G05,Havelland-Grundschule,13.3676797,52.4847726
+07G06,Sternberg-Grundschule,13.33924,52.48047
+07G07,Lindenhof-Grundschule,13.36325,52.45809
+07G10,Teltow-Grundschule,13.3561539,52.4843271
+07G12,Scharmützelsee-Grundschule,13.3432791,52.494157
+07G13,Neumark-Grundschule,13.36249,52.49282
+07G14,Löcknitz-Grundschule,13.3433556,52.4895584
+07G15,Fläming-Grundschule,13.3336295,52.4676325
+07G16,Ruppin-Grundschule,13.32137,52.47538
+07G17,Stechlinsee-Grundschule,13.32242,52.46934
+07G18,Grundschule am Barbarossaplatz,13.34978,52.49235
+07G19,Paul-Simmel-Grundschule,13.3926,52.46137
+07G20,Maria-Montessori-Grundschule,13.38069,52.45817
+07G21,Grundschule auf dem Tempelhofer Feld,13.38185,52.48081
+07G22,Paul-Klee-Grundschule,13.37538,52.454
+07G23,Schätzelberg-Grundschule,13.40066,52.4487
+07G24,Tempelherren-Grundschule,13.3764696,52.4786034
+07G25,Mascha-Kaleko-Grundschule,13.3839685,52.4469847
+07G26,Grundschule im Taunusviertel,13.4197616,52.4004796
+07G27,Rudolf-Hildebrand-Grundschule,13.3854999,52.43886
+07G28,Kiepert-Grundschule,13.37327,52.41591
+07G29,Käthe-Kollwitz-Grundschule,13.4048699,52.3862
+07G30,Annedore-Leber-Grundschule,13.4019707,52.3975626
+07G31,Carl-Sonnenschein-Grundschule,13.408323,52.4438852
+07G32,Bruno-H.-Bürgel-Grundschule,13.399936,52.4052302
+07G34,Marienfelder-Grundschule,13.35184,52.41209
+07G35,Nahariya-Grundschule,13.41943,52.39085
+07G36,Grundschule am Dielingsgrund,13.40863,52.41166
+07G37,Ikarus-Grundschule,13.3906739,52.4334138
+07K12,Gemeinschaftsschule Schöneberg,13.3440679,52.4697836
+08G01,Rixdorfer-Schule,13.4321896,52.4846366
+08G02,Theodor-Storm-Schule,13.4266184,52.4868073
+08G03,Hans-Fallada-Schule,13.45191,52.48398
+08G05,Elbe-Schule,13.44062,52.48442
+08G06,Karl-Weise-Schule,13.4239842,52.4764018
+08G07,Hermann-Boddin-Schule,13.4312519,52.4804158
+08G08,Karlsgarten-Schule,13.4218838,52.4823499
+08G09,Regenbogen-Schule,13.4332507,52.4753977
+08G09,Regenbogen-Schule (SESB),13.4332507,52.4753977
+08G11,Schliemann-Schule,13.485562,52.412344
+08G12,Peter-Petersen-Schule,13.4359965,52.471734
+08G13,Bruno-Taut-Schule,13.44886,52.44095
+08G14,Konrad-Agahd-Schule,13.435522,52.4725476
+08G15,Hermann-Sander-Schule,13.43005,52.46416
+08G16,Hugo-Heimann-Schule,13.45705,52.42538
+08G17,Richard-Schule,13.44439,52.47359
+08G18,Eduard-Mörike-Schule,13.4498581,52.4781179
+08G19,Herman-Nohl-Schule,13.4391445,52.4541993
+08G19,Herman-Nohl-Schule (SESB),13.4391445,52.4541993
+08G20,Sonnen-Schule,13.46714,52.47197
+08G21,Silberstein-Schule,13.4349158,52.4669591
+08G22,Schule am Regenweiher,13.45178,52.42985
+08G23,Zürich-Schule,13.4391167,52.4624037
+08G24,Schule am Teltowkanal,13.4409214,52.459286
+08G25,Michael-Ende-Schule,13.5098482,52.4134523
+08G26,Christoph-Ruden-Schule,13.4149763,52.427903
+08G27,Oskar-Heinroth-Schule,13.4721192,52.4405588
+08G28,Matthias-Claudius-Schule,13.5012377,52.4205344
+08G29,Wetzlar-Schule,13.44294,52.43092
+08G30,Schule am Sandsteinweg,13.40469,52.41829
+08G31,Janusz-Korczak-Schule,13.4616071,52.4217791
+08G33,Schule am Fliederbusch,13.4860405,52.4240808
+08G34,Lisa-Tetzner-Schule,13.4457721,52.4221191
+08G35,Schule in der Köllnischen Heide,13.4621424,52.4685817
+08G36,Löwenzahn-Schule,13.4487708,52.4724989
+08G37,Rose-Oehmichen-Schule,13.5023145,52.4011467
+08K01,Walter-Gropius-Schule,13.46355,52.42934
+08K02,Hermann-v-Helmholtz-Grundst,13.4729735,52.4218231
+08K06,Fritz-Karsen-Schule,13.443793,52.448774
+08K08,1.Gemeinschaftsschule Neukölln,13.4343715,52.4867189
+09G01,Bouché-Schule,13.4533062,52.4930605
+09G04,Sonnenblumen-Schule,13.4884095,52.4619371
+09G05,Schule am Ginkobaum,13.4979,52.44014
+09G06,Melli-Beese-Schule,13.51031,52.44696
+09G07,Schule an der alten Feuerwache,13.5142424,52.4550183
+09G09,Heide-Schule,13.5437125,52.438648
+09G10,Schule am Berg,13.5380442,52.4186596
+09G11,Schule am Pegasuseck,13.5288137,52.405799
+09G13,Schule am Altglienicker Wasserturm,13.5542303,52.4106535
+09G14,Schule am Buntzelberg,13.57427,52.40671
+09G15,Schule am Mohnweg,13.53679,52.40733
+09G16,Wendenschloß-Schule,13.595354,52.428535
+09G17,Uhlenhorst-Schule,13.5797508,52.4676083
+09G18,Schule in der Köllnischen Vorstadt,13.5644617,52.4390807
+09G19,Amtsfeld-Schule,13.5887733,52.4441097
+09G20,Müggelheimer Schule,13.667232,52.4144361
+09G21,Edison-Grundschule,13.5088599,52.46607
+09G22,Schule an der Wuhlheide,13.5241059,52.4625785
+09G23,Hauptmann-von-Köpenick-Schule,13.580919,52.4562409
+09G24,Müggelsee-Schule,13.6406056,52.461374
+09G25,Müggelschlößchen-Grundschule,13.6059104,52.4388397
+09G26,Schule an den Püttbergen,13.7039685,52.4484962
+09G27,Friedrichshagener Schule,13.6213993,52.4546294
+09G29,Schmöckwitzer Insel-Schule,13.6482604,52.3759096
+09K02,Anna-Seghers-Schule,13.548506,52.4355862
+09K07,Sophie-Brahe-Schule,13.4697778,52.4839855
+09K09,Grünauer Schule,13.5761414,52.4193392
+10G03,Selma-Lagerlöf-Grundschule,13.5719271,52.5644951
+10G04,Falken-Grundschule,13.556357,52.5659205
+10G05,Ebereschen-Grundschule,13.5729514,52.5639934
+10G07,Karl-Friedrich-Friesen-Grundschule,13.5643201,52.5535304
+10G08,Wilhelm-Busch-Grundschule,13.5813763,52.5532469
+10G09,Grundschule am Bürgerpark,13.56569,52.55062
+10G10,Peter-Pan-Grundschule,13.5520505,52.5481636
+10G11,Grundschule an der Mühle,13.5657856,52.5397611
+10G12,Grundschule an der Geißenweide,13.5521051,52.5377441
+10G13,Johann-Strauß-Grundschule,13.5596796,52.5298184
+10G14,Grundschule unter dem Regenbogen,13.5426078,52.5297298
+10G16,Grundschule am Fuchsberg,13.5519586,52.4903114
+10G17,Beatrix-Potter-Grundschule,13.5893977,52.5468694
+10G18,Pusteblume-Grundschule,13.6001853,52.5424672
+10G19,Bücherwurm-Grundschule,13.6293619,52.5405846
+10G22,Kolibri-Grundschule,13.613039,52.5379498
+10G25,Grundschule am Schleipfuhl,13.6081858,52.5288775
+10G26,Friedrich-Schiller-Grundschule,13.6151754,52.511277
+10G28,Grundschule am Hollerbusch,13.5951619,52.5258982
+10G29,Grundschule an der Wuhle,13.5806862,52.5212191
+10G30,Mahlsdorfer-Grundschule,13.628978,52.5220465
+10G31,Franz-Carl-Archard-Grundschule,13.5851472,52.5079479
+10G32,Kiekemal-Grundschule,13.6091374,52.4940529
+10G33,Ulmen-Grundschule,13.5803792,52.4859416
+10K10,Gretel-Bergmann-Gemeinschaftsschule,13.5965726,52.5368061
+11G01,Sonnenuhr-Schule,13.4670691,52.5291527
+11G02,Schule am Roederplatz,13.48214,52.52899
+11G03,Schule im Gutspark,13.48307,52.52237
+11G05,Schule auf dem lichten Berg,13.4942948,52.5169195
+11G06,Adam-Ries-Schule,13.5318701,52.5114519
+11G07,Hermann-Gmeiner-Schule,13.48594,52.5101
+11G08,Robinson-Schule,13.484745,52.4985439
+11G09,Bürgermeister-Ziethen-Schule,13.51665,52.50818
+11G10,Schule im Ostseekarree,13.5001084,52.5641446
+11G11,Bernhard-Grzimek-Schule,13.51176,52.49572
+11G12,Lew-Tolstoi-Schule (incl. SESB),13.53678,52.49199
+11G13,Karlshorster Schule,13.51994,52.48925
+11G14,Richard-Wagner-Schule,13.5343667,52.4794211
+11G16,Schule an der Victoriastadt,13.484745,52.4985439
+11G17,Brodowin-Schule,13.3605466,52.552132
+11G18,Schule am Wilhelmsberg,13.4831483,52.5370684
+11G19,Obersee-Schule,13.4880793,52.5437105
+11G21,Schule am Faulen See,13.49837,52.5521
+11G22,Martin-Niemöller-Schule,13.5126156,52.5636391
+11G23,Friedrichsfelder Schule,13.50355,52.503
+11G25,Schule am Wäldchen,13.5061829,52.5686106
+11G26,Randow-Schule,13.5190509,52.5640416
+11G28,Feldmark-Schule,13.532385,52.5686392
+11G29,Matibi-Schule,13.5211244,52.5712121
+11K10,Grüner Campus Malchow (GemS),13.4837973,52.5723921
+12G01,Havelmüller-Grundschule,13.2849359,52.5785116
+12G02,Grundschule am Schäfersee,13.3554,52.5622
+12G03,Reginhard-Grundschule,13.3703007,52.5631406
+12G04,Till-Eulenspiegel-Grundschule,13.3443823,52.5738544
+12G05,Kolumbus-Grundschule,13.3714743,52.5693104
+12G06,Hausotter-Grundschule,13.3749715,52.5696247
+12G07,Mark-Twain-Grundschule,13.3263999,52.56864
+12G09,Grundschule an der Peckwisch,13.3486899,52.59299
+12G10,Peter-Witte-Grundschule,13.33039,52.5863
+12G11,Ringelnatz-Grundschule,13.3378679,52.5862188
+12G12,Borsigwalder-Grundschule,13.30561,52.58822
+12G13,Franz-Marc-Grundschule,13.2827965,52.5882274
+12G14,Alfred-Brehm-Grundschule,13.28368,52.57359
+12G15,Hoffmann-von-Fallersleben-Grundschule,13.29515,52.58744
+12G17,Ellef-Ringnes-Grundschule,13.2417857,52.6106246
+12G18,Grundschule am Tegelschen Ort,13.2280067,52.5761808
+12G19,Münchhausen-Grundschule,13.31718,52.60851
+12G20,Grundschule am Vierrutenberg,13.3389148,52.6182098
+12G21,Grundschule am Fließtal,13.32062,52.61528
+12G22,Gustav-Dreyer-Grundschule,13.3037899,52.61309
+12G23,Victor-Gollancz-Grundschule,13.28757,52.63826
+12G24,Renée-Sintenis-Grundschule,13.27237,52.63695
+12G26,Märkische-Grundschule,13.3604362,52.5950094
+12G27,Chamisso-Grundschule,13.3580546,52.6017386
+12G28,Grundschule in den Rollbergen,13.335731,52.609905
+12G29,Hermann-Schulz-Grundschule,13.32554,52.57359
+12G30,Reineke-Fuchs-Grundschule,13.3101218,52.5742034
+12G32,Charlie-Chaplin-Grundschule,13.3644276,52.5972944
+12G33,Lauterbach-Grundschule,13.3595143,52.6038823
+12G34,Otfried-Preußler-Grundschule,13.228818,52.6126451
+01K10,Theodor-Heuss-Schule,13.3534733,52.5353649
+02G36,Blumen-Grundschule,13.431537,52.516247
+03G48,48. Grundschule,13.3726718,52.5382556
+04G10,Helmuth-James-v-Moltke-Grundschule,13.30104,52.53903
+05G30,Birken-Grundschule,13.1973753,52.5485882
+06G32,Grundschule am Stadtpark Steglitz,13.342787,52.449522
+06G33,Friedrich-Drake-GS,13.3077876,52.4324792
+06G34,34. Grundschule,13.46783,52.51279
+06K11,Anna-Essinger-Gemeinschaftsschule,13.3101391,52.4386645
+08K13,Gemeinschaftsschule Campus Efeuweg,13.4727114,52.4265822
+09G03,Schule am Heidekampgraben,13.47837,52.46872
+09G30,Kiefholz-Grundschule,13.4560378,52.4862455
+09G31,31. Grundschule,13.5323684,52.4593778
+10G21,W.-Amadeus-Mozart-Grundschule,13.5965726,52.5368061
+10G34,Schule am grünen Stadtrand,13.561932,52.5697247
+10K11,Marcana-Schule (Gemeinschaftsschule),13.5650075,52.5637719
+11G31,31. Schule,13.2633758,52.5095204
+11G32,Hans-Rosenthal-Grundschule,13.4810636,52.5317647
+11G33,33. Grundschule,13.3079509,52.4325361
+11G34,34. Grundschule (Neugründung 2019),13.404954,52.5200066
+11G35,35. Grundschule (Neugründung 2019),13.404954,52.5200066
+11K12,Paul-und-Charlotte-Kniese-Schule (GemS),13.505497,52.494234
+12K12,Campus Hannah-Höch,13.3446826,52.6010055

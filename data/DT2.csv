@@ -1,0 +1,395 @@
+School_ID;Name;HIN_Wechselwunsch_Total_19_20;HIN_Wechselwunsch_In_Bezirk_19_20;HIN_Wechselwunsch_Aus_a_Bezirk_19_20;AUS_Wechselwunsch_Total_19_20;AUS_Wechselwunsch_In_Bezirk_19_20;AUS_Wechselwunsch_Aus_a_Bezirk_19_20;HIN_Wechselwunsch_Total_20_21;HIN_Wechselwunsch_In_Bezirk_20_21;HIN_Wechselwunsch_Aus_a_Bezirk_20_21;HIN_Wechselwunsch_Aufnahme_20_21;HIN_Wechselwunsch_Ablehung_20_21;AUS_Wechselwunsch_Total_20_21;AUS_Wechselwunsch_In_Bezirk_20_21;AUS_Wechselwunsch_Aus_a_Bezirk_20_21;AUS_Wechselwunsch_Aufnahme_20_21;AUS_Wechselwunsch_Ablehung_20_21
+01G01;Grundschule am Arkonaplatz;32;28;4;15;0;15;33;26;7;1;30;11;11;;7;3
+01G01;Grundschule am Arkonaplatz / SESB;65;25;40;;;;64;23;41;24;35;;;;;
+01G02;Papageno-Grundschule;112;108;4;22;6;16;86;82;4;15;56;14;14;;11;1
+01G04;Kastanienbaum-Grundschule;21;17;4;45;15;30;20;15;5;11;8;36;36;;20;5
+01G05;Grundschule Neues Tor;17;16;1;8;7;1;22;20;2;1;4;14;14;;8;3
+01G05;Grundschule Neues Tor  / SESB;57;29;28;;;;79;36;43;48;27;;;;;
+01G07;GutsMuths-Grundschule;13;5;8;32;8;24;15;6;9;;15;25;25;;10;13
+01G08;Grundschule am Brandenburger Tor;8;3;5;38;18;20;7;2;5;;7;50;50;;24;19
+01G08;Grundschule am Brandenburger Tor / SESB;75;28;47;;;;93;41;52;48;43;;;;;
+01G10;City-Grundschule;33;7;26;56;12;44;26;3;23;24;;53;53;;19;30
+01G11;Kurt-Tucholsky-Grundschule;37;36;1;66;40;26;38;38;;19;14;49;49;;11;12
+01G15;Anne-Frank-Grundschule;20;19;1;15;6;9;45;39;6;;40;7;7;;5;1
+01G16;Moabiter Grundschule;9;9;;47;27;20;6;6;;4;;34;34;;13;19
+01G18;Carl-Bolle-Grundschule;9;9;;148;115;33;4;4;;3;;99;99;;18;73
+01G19;Hansa Grundschule;32;31;1;12;8;4;23;23;;;20;16;16;;8;8
+01G24;Gottfried-Röhl-Grundschule;15;14;1;45;15;30;15;14;1;5;8;41;41;;17;19
+01G25;Rudolf-Wissell-Grundschule;8;5;3;86;39;47;6;3;3;5;;80;80;;30;36
+01G27;Gesundbrunnen-Grundschule;18;18;;66;42;24;21;21;;9;8;55;55;;27;28
+01G28;Brüder-Grimm-Grundschule;6;5;1;67;39;28;8;6;2;5;;64;64;;21;33
+01G29;Wilhelm-Hauff-Grundschule;27;27;;36;18;18;15;14;1;8;5;38;38;;15;16
+01G31;Wedding-Grundschule;17;15;2;43;35;8;11;10;1;10;;29;29;;10;13
+01G32;Carl-Kraemer-Grundschule;6;4;2;21;8;13;8;8;;8;;26;26;;14;9
+01G35;Humboldthain-Grundschule;14;14;;35;28;7;14;13;1;13;;75;75;;27;40
+01G36;Andersen-Grundschule;2;2;;67;58;9;3;3;;2;;19;19;;10;6
+01G37;Heinrich-Seidel-Grundschule;7;7;;81;42;39;13;10;3;13;;62;62;;27;25
+01G38;Gustav-Falke-Grundschule;35;34;1;77;64;13;36;34;2;8;27;63;63;;28;26
+01G39;Vineta-Grundschule;22;20;2;35;30;5;18;16;2;6;12;36;36;;17;13
+01G40;Möwensee-Grundschule;15;13;2;26;11;15;13;12;1;11;;19;19;;6;11
+01G41;Erika-Mann-Grundschule;60;59;1;20;11;9;58;55;3;;52;13;13;;4;6
+01G42;Anna-Lindh-Grundschule;55;52;3;24;17;7;40;33;7;13;19;24;24;;12;9
+01G43;Albert-Gutzmann-Schule;20;20;;62;11;51;17;16;1;;15;51;51;;21;25
+01G44;Allegro-Grundschule;19;1;18;52;6;46;14;1;13;2;9;61;61;;23;25
+01G45;Leo-Lionni-Grundschule;21;19;2;54;43;11;14;13;1;8;1;42;42;;17;21
+02G01;Spartacus-Grundschule;33;18;15;72;33;39;23;18;5;23;;54;29;25;37;17
+02G02;Hausburg-Grundschule;10;4;6;47;21;26;5;3;2;5;;43;26;17;31;12
+02G02;Hausburg-Grundschule (SESB);82;30;52;;;;73;22;51;53;20;;;;;
+02G03;Justus-von-Liebig-Grundschule;43;24;19;62;38;24;25;9;16;14;11;51;40;11;26;25
+02G04;Pettenkofer-Grundschule;46;34;12;31;19;12;35;21;14;16;19;24;19;5;14;10
+02G07;Ludwig-Hoffmann-Grundschule;39;37;2;33;27;6;31;28;3;13;18;27;22;5;20;7
+02G08;Grundschule am Traveplatz;17;8;9;29;24;5;13;6;7;13;;26;18;8;8;18
+02G09;Zille-Grundschule;22;18;4;35;25;10;18;6;2;18;;34;27;7;27;7
+02G10;Modersohn-Grundschule;20;13;7;46;24;22;29;26;3;29;;54;41;13;42;12
+02G11;Thalia-Grundschule;7;2;5;9;4;5;23;4;19;13;10;18;16;2;11;7
+02G12;Kurt-Schumacher-Grundschule;3;3;;73;48;25;7;5;2;7;;80;56;24;57;23
+02G13;Charlotte-Salomon-Grundschule;27;20;7;13;6;7;22;17;5;;22;22;10;12;17;5
+02G14;Galilei-Grundschule;14;10;4;33;22;11;12;12;;12;;46;32;14;32;14
+02G14;Galilei-Grundschule (SESB);;;;;;;39;11;21;32;7;;;;;
+02G18;Nürtingen-Grundschule;41;22;19;47;39;8;50;20;30;15;35;32;25;7;18;14
+02G19;Fanny-Hensel-Grundschule;19;13;6;;;;22;19;3;18;4;33;15;18;20;13
+02G32;Clara-Grunwald-Grundschule;54;38;16;;;;33;19;14;;33;;;;;
+02G20;Bürgermeister-Herz-Grundschule;57;52;5;32;21;11;52;47;5;;52;28;20;8;24;4
+02G21;Reinhardswald-Grundschule;89;66;23;16;6;10;69;52;17;23;46;7;5;2;5;2
+02G22;Jens-Nydahl-Grundschule;9;7;2;54;44;10;10;8;2;10;;60;57;3;29;31
+02G23;Fichtelgebirge-Grundschule;35;15;20;13;6;7;37;12;25;17;20;18;13;5;5;13
+02G24;Otto-Wels-Grundschule;17;17;;83;56;27;19;19;;19;;55;37;18;30;25
+02G26;Lemgo-Grundschule;3;2;1;50;36;14;5;4;1;5;;78;60;18;34;44
+02G26;Lemgo-Grundschule (SESB);30;10;20;;;;57;25;27;53;;;;;;
+02G27;Hunsrück-Grundschule;35;30;5;48;35;13;42;24;18;38;4;50;41;9;25;25
+02G29;Heinrich-Zille-Grundschule;49;41;8;18;9;9;41;31;10;11;30;15;10;5;12;3
+02G31;Adolf-Glaßbrenner-Grundschule;21;18;3;13;7;6;19;15;4;6;13;20;8;12;13;7
+02G33;Aziz-Nesin-Grundschule;33;9;24;;;;50;21;31;49;1;;;;;
+02G34;Jane-Goodall-Grundschule;21;19;2;11;7;4;23;20;3;12;11;14;11;3;8;6
+02G35;Rosa-Parks-Grundschule;69;19;50;29;15;14;45;15;30;;45;32;22;10;30;2
+02G36;Blumen-Grundschule;20;12;8;63;35;28;12;4;8;12;;61;40;21;44;17
+02K02;Carl-von-Ossietzky-Schule;46;27;19;;;;78;51;27;45;33;;;;;
+02K04;Lina-Morgenstern-Schule;8;6;2;88;70;18;4;2;2;4;;58;41;17;28;30
+02S01;Temple-Gardin-Schule;46;44;2;;;;62;36;26;27;35;;;;;
+03G01;Grundschule am Hamburger Platz;25;23;2;57;37;20;23;21;2;;;46;37;9;;
+03G02;Heinrich-Roller-Grundschule;27;16;11;23;11;12;28;22;6;;;25;21;4;;
+03G03;Grundschule am Kollwitzplatz;31;28;3;8;3;5;26;21;5;;;17;11;6;;
+03G04;Grundschule an der Marie;18;16;2;25;12;13;27;26;1;;;24;11;13;;
+03G05;Homer-Grundschule;10;8;2;48;21;27;4;4;;;;67;51;16;;
+03G06;Bötzow-Grundschule;12;9;3;41;24;17;29;27;2;;;20;14;6;;
+03G08;Grundschule am Planetarium;30;28;2;69;51;18;37;35;2;;;64;61;3;;
+03G09;Thomas-Mann-Grundschule;15;15;;38;26;12;26;25;1;;;34;29;5;;
+03G10;Grundschule am Hohen Feld;10;10;;30;22;8;9;9;;;;30;29;1;;
+03G11;Grundschule am Falkplatz;18;6;12;49;24;25;40;7;33;;;53;37;16;;
+03G12;Paul-Lincke-Grundschule;2;2;;41;35;6;9;8;1;;;57;47;10;;
+03G13;Rudolf-Dörrier-Grundschule;27;14;13;72;51;21;16;5;11;;;66;60;6;;
+03G14;Bornholmer-Grundschule;24;14;10;15;8;7;36;13;23;;;27;11;16;;
+03G15;Grundschule am Senefelder Platz;25;18;7;34;21;13;43;28;15;;;31;19;12;;
+03G16;Teutoburger-Grundschule;26;12;14;22;9;13;25;12;13;;;21;12;9;;
+03G17;Grundschule am Weißen See;1;1;;95;55;40;12;12;;;;81;74;7;;
+03G18;Picasso-Grundschule;44;41;3;25;10;15;35;33;2;;;15;14;1;;
+03G20;Grundschule im Moselviertel;12;7;5;29;16;13;9;6;3;;;39;30;9;;
+03G21;Grundschule unter den Bäumen;9;8;1;5;2;3;12;11;1;;;4;3;1;;
+03G22;Grundschule am Wasserturm;12;11;1;35;19;16;4;3;1;;;31;29;2;;
+03G23;Grundschule Alt-Karow;27;25;2;5;2;3;28;28;;;;10;10;;;
+03G24;Panketal-Grundschule;24;23;1;38;30;8;26;26;;;;34;33;1;;
+03G25;Carl-Human-Grundschule;28;27;1;28;15;13;22;21;1;;;61;54;7;;
+03G26;Arnold-Zweig-Grundschule;22;15;7;40;17;23;17;6;11;;;22;19;3;;
+03G27;Elizabeth-Shaw-Grundschule;32;29;3;38;22;16;27;21;6;;;30;27;3;;
+03G28;Grundschule im Hasengrund;18;18;;23;14;9;4;4;;;;27;23;4;;
+03G29;Grundschule Am Sandhaus;12;12;;75;27;48;14;14;;;;58;54;4;;
+03G32;Grundschule an den Buchen;34;31;3;28;9;19;36;36;;;;19;12;7;;
+03G33;Jeanne-Barez-Grundschule;23;23;;16;9;7;24;23;1;;;19;16;3;;
+03G34;Mendel-Grundschule;24;22;2;22;10;12;32;30;2;;;18;17;1;;
+03G35;Platanen-Grundschule;10;10;;18;13;5;7;6;1;;;9;9;;;
+03G36;Elisabeth-Christinen-Grundschule;11;10;1;56;26;30;28;27;1;;;47;44;3;;
+03G37;Klecks-Grundschule;17;17;;28;19;9;8;7;1;;;25;22;3;;
+03G38;Grundschule im Blumenviertel;45;31;14;30;1;29;47;33;14;;;9;7;2;;
+03G39;Wolkenstein-Grundschule;15;12;3;36;21;15;3;2;1;;;30;26;4;;
+03G40;Grundschule im Birkenhof;17;16;1;34;24;10;6;6;;;;29;25;4;;
+03G41;Trelleborg-Grundschule;17;15;2;34;24;10;9;8;1;;;48;40;8;;
+03G43;Grundschule Wilhelmsruh;29;8;21;14;11;3;30;5;25;;;18;8;10;;
+03G44;Georg-Zacharias-Grundschule;29;14;15;10;4;6;24;14;10;;;6;6;;;
+03G45;Grundschule im Hofgarten;31;28;3;24;12;12;37;30;7;;;18;10;8;;
+03G46;Grundschule im Eliashof;46;45;1;20;11;9;45;44;1;;;12;7;5;;
+03G47;Grundschule an der Strauchwiese;28;25;3;11;6;5;13;12;1;;;11;11;;;
+03G48;48. Grundschule;;;3;;;;15;8;7;;;41;16;25;;
+03K11;Wilhelm-von-Humboldt-Gemeinschaftsschule;;;;;;;121;108;13;;;17;15;2;;
+03K07;Telsa-Gemeinschaftsschule;45;35;10;;;;26;16;10;;;25;20;5;;
+04G01;Eichendorff-Grundschule;28;27;1;50;29;21;24;20;4;;24;52;40;12;25;27
+04G02;Lietzensee-Grundschule;19;17;2;52;41;11;19;18;1;18;;52;47;5;28;24
+04G04;Joan-Miró-Grundschule;6;4;2;52;33;19;10;8;2;10;;63;55;8;33;30
+04G04;"Joan-Miró-Grundschule - Staatliche Europaschule Berlin (SESB)""";113;68;45;;;;104;54;50;72;32;;;;;
+04G05;Dietrich-Bonhoeffer-Grundschule;22;14;18;49;29;20;17;5;12;5;7;42;39;3;28;14
+04G06;Wald-Grundschule;91;83;8;19;10;9;85;74;11;20;65;18;17;1;16;2
+04G07;Ludwig-Cauer-Grundschule;14;9;5;40;13;27;19;15;4;19;;49;32;17;35;14
+04G08;Mierendorff-Grundschule;8;6;2;61;36;25;11;5;6;11;;64;46;18;30;34
+04G09;Erwin-von-Witzleben-Grundschule;7;7;;10;3;7;22;13;9;18;4;19;11;8;8;11
+04G11;Helmuth-James-von-Moltke-Grundschule;2;;2;32;19;13;4;;4;;4;34;25;9;21;13
+04G12;Schinkel-Grundschule;30;26;4;118;78;40;36;33;3;;36;99;82;17;47;52
+04G13;Nehring-Grundschule;18;18;;52;39;13;33;32;1;11;22;58;49;9;38;20
+04G14;Reinhold-Otto-Grundschule;10;6;4;73;56;17;8;8;;8;;61;57;4;30;31
+04G15;Charles-Dickens-Grundschule;7;5;2;14;10;4;15;5;10;;15;18;15;3;10;8
+04G15;"Charles-Dickens-Grundschule - Staatliche Europaschule Berlin (SESB)""";89;48;41;;;;101;44;57;48;53;;;;;
+04G17;Johann-Peter-Hebel-Grundschule;43;39;4;90;43;47;35;35;;;35;93;80;13;55;38
+04G18;Ernst-Habermann-Grundschule;12;6;6;38;20;18;18;10;8;;18;37;22;15;22;15
+04G19;Grundschule am Rüdesheimer Platz;30;26;4;39;13;26;42;30;12;42;;31;12;19;12;19
+04G20;Katharina-Heinroth-Grundschule;5;2;3;158;112;46;2;1;1;1;1;185;155;30;87;98
+04G20;Katharina-Heinroth-Grundschule - Staatliche Europaschule Berlin (SESB);29;16;13;;;;36;10;26;36;;;;;;
+04G21;Halensee-Grundschule;12;12;;78;56;22;14;11;3;;14;106;91;15;56;50
+04G22;Grunewald-Grundschule;28;27;1;33;17;16;55;40;15;17;38;26;11;15;15;11
+04G23;Alt-Schmargendorf-Grundschule;20;19;1;54;40;14;15;13;2;15;;77;64;13;50;27
+04G24;Carl-Orff-Grundschule;27;26;1;50;29;21;39;34;5;20;19;38;25;13;26;12
+04G25;Cecilien-Grundschule;24;21;3;57;35;22;20;14;6;;20;46;31;15;20;26
+04G26;Birger-Forell-Grundschule;14;12;2;30;19;11;10;10;;;10;39;31;8;15;24
+04G27;Judith-Kerr-Grundschule - (SESB);79;39;40;;;;80;39;41;57;;;;;;
+04S04;Reinfelder-Schule;55;46;9;;;;52;39;13;48;4;;;;;
+04S07;Comenius-Schule;61;50;11;;;;84;72;12;60;24;;;;;
+04K05;Paula-Fürst-Schule;56;55;1;;;;73;69;4;73;;;;;;
+05G01;Ernst-Ludwig-Heim-Grundschule;2;2;;51;36;15;1;1;;1;;51;37;14;40;11
+05G01;Ernst-Ludwig-Heim-G/Sprachheilkl.;9;9;;;;;20;20;;20;;;;;;
+05G02;Grundschule am Eichenwald;29;26;3;15;15;;34;34;;25;9;18;17;1;15;3
+05G04;Klosterfeld-Grundschule;8;8;;23;23;;11;11;;3;8;31;30;1;29;2
+05G05;Christoph-Földerich-Grundschule;10;10;;78;69;9;17;17;;17;;67;59;8;46;21
+05G06;Siegerland-Grundschule;6;6;;48;47;1;10;10;;10;;44;41;3;39;5
+05G07;Lynar-Grundschule;5;5;;34;34;;4;4;;4;;53;49;4;45;8
+05G08;Konkordia-Grundschule;50;49;1;19;15;4;47;47;;30;17;13;12;1;11;2
+05G10;Grundschule am Birkenhain;17;17;;29;27;2;16;16;;16;;32;30;2;22;10
+05G11;Robert-Reinick-Grundschule;3;1;2;27;5;22;15;4;11;;15;23;6;17;19;4
+05G12;Grundschule am Weinmeisterhorn;39;39;;10;5;5;27;27;;27;;10;6;4;9;1
+05G13;Bernd-Ryke-Grundschule;23;23;;20;15;5;22;22;;6;16;24;20;4;15;9
+05G14;Linden-Grundschule;49;49;;20;18;2;38;37;1;21;17;16;14;2;11;5
+05G15;Askanier-Grundschule;12;12;;30;28;2;14;14;;14;;32;28;4;24;8
+05G16;Zeppelin-Grundschule;18;17;1;11;11;;15;14;1;11;4;14;12;2;11;3
+05G17;Astrid-Lindgren-Grundschule;24;24;;44;42;2;12;12;;12;;58;54;4;40;18
+05G18;Grundschule im Beerwinkel;8;8;;37;34;3;5;5;;2;3;37;34;3;29;8
+05G19;Grundschule am Ritterfeld;23;16;7;24;22;2;23;21;2;23;;37;33;4;37;
+05G20;Carl-Schurz-Grundschule;11;10;1;54;51;3;6;6;;6;;83;77;6;57;26
+05G21;Paul-Moor-Grundschule;52;52;;;;;41;41;;29;12;16;15;1;14;2
+05G22;Christian-Morgenstern-Grundschule;17;17;;58;57;1;12;12;;12;;76;66;10;50;26
+05G23;Grundschule am Brandwerder;10;9;1;26;25;1;11;11;;9;2;20;18;2;14;6
+05G24;Grundschule am Windmühlenberg;21;21;;5;4;1;28;26;2;28;;10;7;3;10;
+05G25;Grundschule am Wasserwerk;14;14;;11;11;;4;4;;;4;15;15;;14;1
+05G26;Grundschule am Amalienhof;15;15;;42;39;3;18;18;;10;8;37;35;2;33;4
+05G27;Peter-Härtling-Grundschule;23;23;;26;22;4;30;30;;30;;18;13;5;17;1
+05G28;Grundschule an der Pulvermühle;4;4;;17;14;3;15;15;;15;;17;13;4;14;3
+05G29;Mary-Poppins-Grundschule;16;14;2;19;16;3;28;25;3;28;;17;12;5;14;3
+05G30;Birken-Grundschule;19;19;;21;21;;14;14;;14;;27;26;1;21;6
+05K05;B.-Traven-GemS;13;13;;;;;22;22;;22;;17;15;2;11;6
+06G01;Nord-Grundschule;32;29;3;53;34;19;28;28;0;22;0;43;18;25;;
+06G02;Süd-Grundschule;3;3;;118;96;22;12;12;0;11;0;79;51;28;;
+06G03;Johannes-Tews-Grundschule;20;19;1;78;59;19;24;23;1;20;0;40;25;15;;
+06G04;Erich Kästner Grundschule;59;45;14;31;19;12;37;28;9;9;27;30;13;17;;
+06G05;Conrad-Grundschule;7;4;3;24;10;14;13;9;4;10;0;23;9;14;;
+06G06;Mühlenau-Grundschule;61;55;6;34;16;18;54;50;4;42;0;51;35;16;;
+06G07;Zinnowwald-Grundschule;3;2;1;76;70;6;10;8;2;8;0;90;55;35;;
+06G08;Schweizerhof-Grundschule;36;34;2;66;41;25;28;23;5;11;12;44;18;26;;
+06G09;Dreilinden-Grundschule;9;8;1;29;23;6;10;10;0;9;0;35;25;10;;
+06G10;Grundschule am Buschgraben;34;34;;;;;16;16;0;13;0;49;39;10;;
+06K11;Anna-Essinger-Gemeinschaftsschule;113;105;8;;;;93;85;8;46;37;20;14;6;;
+06G12;Quentin-Blake-Grundschule dt // engl;108;64;44;;;;78;46;32;47;22;;;;;
+06G12;Quentin-Blake-Grundschule Regel;11;10;1;17;15;2;12;10;2;11;0;17;12;5;;
+06G14;Sachsenwald-Grundschule;8;3;5;35;8;27;17;15;2;10;7;14;3;11;;
+06G15;Dunant-Grundschule;9;1;8;87;38;49;16;13;3;13;0;73;22;51;;
+06G16;Rothenburg-Grundschule;27;23;4;17;13;4;28;25;3;7;20;35;25;10;;
+06G17;Grundschule am Insulaner;28;21;7;27;17;10;17;13;4;11;5;26;14;12;;
+06G18;Athene-Grundschule (Regelzug);5;5;;49;42;7;11;9;2;10;0;41;29;12;;
+06G18;Athene-Grundschule - Staatliche Europaschule Berlin (SESB);30;18;12;;;;37;18;19;21;6;;;;;
+06G20;Alt-Lankwitzer-Grundschule;45;39;6;30;11;19;32;28;4;27;0;32;12;20;;
+06G21;Paul-Schneider-Grundschule;8;6;2;58;49;9;13;12;1;12;0;70;55;15;;
+06G22;Giesensdorfer-Grundschule;8;8;;56;45;11;18;17;1;16;0;50;34;16;;
+06G23;Kronach-Grundschule;18;18;;23;11;12;36;33;3;13;20;25;9;16;;
+06G24;Grundschule unter den Kastanien;28;23;5;18;12;6;27;23;4;15;10;25;21;4;;
+06G25;Clemens-Brentano-Grundschule;40;40;;9;4;5;62;59;3;60;0;23;13;10;;
+06G26;Käthe-Kruse-Grundschule;18;17;1;25;16;9;15;13;2;13;0;25;17;8;;
+06G27;Grundschule am Königsgraben;41;15;26;22;9;13;47;14;33;2;39;21;12;9;;
+06G28;Ludwig-Bechstein-Grundschule;1;;1;39;30;9;5;4;1;3;0;36;22;14;;
+06G29;Grundschule am Karpfenteich;57;18;39;10;7;3;55;24;31;30;21;11;9;2;;
+06G30;Mercator-Grundschule;3;2;1;45;31;14;0;0;0;0;0;67;57;10;;
+06G31;Grundschule an der Bäke;13;12;1;49;36;13;8;8;0;5;0;56;37;19;;
+06G32;Grundschule am Stadtpark Steglitz;24;18;6;51;29;22;18;15;3;9;6;81;50;31;;
+06G33;Friedrich-Drake-Gundschule;25;23;2;16;12;4;20;20;0;17;0;24;14;10;;
+06G34;34. Grundschule;19;19;;29;16;13;41;38;3;19;20;20;8;12;;
+07G01;Spreewald-Grundschule;13;10;3;100;84;16;7;4;3;6;1;90;58;32;58;32
+07G02;Finow-Grundschule;11;2;9;30;15;15;10;2;8;1;9;22;9;13;15;7
+07G02;Finow-Grundschule - Staatliche Europaschule Berlin (SESB);70;17;53;;;;68;26;42;61;7;;;;;
+07G03;Werbellinsee-Grundschule;66;50;16;33;21;12;44;36;8;6;38;29;14;15;18;11
+07G05;Havelland-Grundschule;41;38;3;23;13;10;39;35;4;31;8;18;6;12;16;2
+07G06;Sternberg-Grundschule;11;10;1;40;25;15;10;9;1;6;4;37;20;17;28;9
+07G07;Lindenhof-Grundschule;22;20;2;21;16;5;23;23;;16;7;21;9;12;16;5
+07G10;Teltow-Grundschule;17;16;1;89;71;18;18;14;4;18;;65;48;17;53;12
+07G12;Scharmützelsee-Grundschule;52;41;11;26;11;15;43;34;9;21;22;28;20;8;12;16
+07G13;Neumark-Grundschule;18;17;1;80;56;24;12;9;3;12;;50;32;18;33;17
+07G14;Löcknitz-Grundschule;49;31;18;20;7;13;43;30;13;3;40;13;8;5;11;2
+07G15;Fläming-Grundschule;37;22;15;86;61;25;41;33;8;24;17;52;28;24;44;8
+07G16;Ruppin-Grundschule;31;10;21;35;17;18;35;9;26;21;14;35;18;17;28;7
+07G17;Stechlinsee-Grundschule;39;16;23;20;10;10;23;11;12;10;13;12;8;4;7;5
+07G18;Grundschule am Barbarossaplatz;48;45;3;9;5;4;33;32;1;10;23;6;2;4;5;1
+07G19;Paul-Simmel-Grundschule;6;3;3;90;64;26;10;8;2;10;;64;38;26;46;18
+07G20;Maria-Montessori-Grundschule;51;49;2;18;9;9;53;52;1;17;36;18;8;10;16;2
+07G21;Grundschule auf dem Tempelhofer Feld;24;21;3;19;4;15;40;34;6;9;31;20;6;14;14;6
+07G22;Paul-Klee-Grundschule;31;30;1;70;57;13;26;24;2;14;22;48;40;8;30;18
+07G23;Schätzelberg-Grundschule;25;23;2;32;26;6;12;11;1;2;10;30;21;9;24;6
+07G24;Tempelherren-Grundschule;12;10;2;25;17;8;6;6;;6;;33;25;8;18;15
+07G25;Mascha-Kaléko-Grundschule;32;30;2;18;13;5;15;15;;15;;31;25;6;22;9
+07G26;Grundschule im Taunusviertel;35;26;9;35;32;3;20;19;1;5;15;29;21;8;28;1
+07G27;Rudolf-Hildebrand-Grundschule;16;14;2;45;35;10;17;15;2;17;;31;21;10;23;8
+07G28;Kiepert-Grundschule;34;31;3;31;13;18;11;9;2;9;2;26;10;16;22;4
+07G29;Käthe-Kollwitz-Grundschule;24;24;;13;9;4;23;22;1;16;7;14;5;9;12;2
+07G30;Annedore-Leber-Grundschule;41;36;5;17;13;4;35;31;4;26;9;18;12;6;15;3
+07G31;Carl-Sonnenschein-Grundschule;47;20;27;24;15;9;30;8;22;19;11;18;9;9;13;5
+07G32;Bruno-H.-Bürgel-Grundschule;39;37;2;25;12;13;24;22;2;9;15;25;9;16;16;9
+07G34;Marienfelder-Grundschule;6;4;2;121;40;81;2;2;;2;;84;13;71;59;25
+07G35;Nahariya-Grundschule;29;27;2;66;57;9;12;12;;12;;43;39;4;27;16
+07G36;Grundschule am Dielingsgrund;20;15;5;42;31;11;23;8;15;23;;27;18;9;16;11
+07G37;Ikarus-Grundschule;39;39;;12;3;9;22;18;4;11;11;18;6;12;16;2
+07K12;Gemeinschaftsschule Schöneberg;80;74;6;;;;37;29;8;33;4;37;24;13;31;6
+08G01;Rixdorfer-Schule;18;18;;67;48;19;15;15;;15;;66;12;;48;18
+08G02;Theodor-Storm-Schule;13;9;4;86;34;52;14;12;2;14;;102;67;;53;49
+08G03;Hans-Fallada-Schule;6;4;2;49;19;30;9;8;1;9;;69;44;;36;33
+08G05;Elbe-Schule;15;14;1;70;40;30;15;14;1;15;;67;30;;31;36
+08G06;Karl-Weise-Schule;6;5;1;36;24;12;10;9;1;10;;36;10;;20;16
+08G07;Hermann-Boddin-Schule;8;6;2;45;36;9;7;6;1;7;;51;13;;33;19
+08G08;Karlsgarten-Schule;23;22;1;37;14;23;24;23;1;24;;32;17;;14;18
+08G09;Regenbogen-Schule;19;19;;16;8;8;33;31;2;24;9;28;9;;19;9
+08K13;Campus Efeuweg;9;9;;73;63;10;4;4;;4;;63;2;;54;9
+08G11;Schliemann-Schule;23;23;;22;12;10;25;25;;25;;31;3;;16;15
+08G12;Peter-Petersen-Schule;91;89;2;;;;111;108;3;48;63;;;;;
+08G13;Bruno-Taut-Schule;21;19;2;100;84;16;21;20;1;21;;126;21;;94;32
+08G14;Konrad-Agahd-Schule;25;25;;40;33;7;24;24;;0;24;39;2;;23;16
+08G15;Hermann-Sander-Schule;16;13;3;36;30;6;20;12;8;20;;58;10;;30;28
+08G16;Hugo-Heimann-Schule;14;14;;51;43;8;15;15;;15;;48;2;;40;8
+08G17;Richard-Schule;29;29;;46;35;11;52;50;2;52;;49;7;;28;21
+08G18;Eduard-Mörike-Schule;7;5;2;61;41;20;13;13;;13;;88;26;;48;40
+08G19;Herman-Nohl-Schule;51;45;6;25;11;14;14;14;;14;;37;5;;21;16
+08G20;Sonnen-Schule;8;8;;49;30;19;2;2;;2;;36;17;;25;11
+08G21;Silberstein-Schule;11;10;1;59;53;6;15;13;2;15;;64;9;;31;33
+08G22;Schule am Regenweiher;32;31;1;27;23;4;34;32;2;34;;28;2;;17;11
+08G23;Zürich-Schule;42;40;2;32;21;11;22;21;1;;22;28;7;;20;8
+08G24;Schule am Teltowkanal;9;9;;42;38;5;14;14;;14;;34;3;;21;13
+08G25;Michael-Ende-Schule;35;33;2;3;2;1;43;39;4;43;;4;2;;2;2
+08G26;Christoph-Ruden-Schule;12;12;;51;40;11;7;7;;7;;55;8;;40;15
+08G27;Oskar-Heinroth-Schule;46;38;8;39;22;17;35;26;9;35;;38;7;;32;6
+08G28;Matthias-Claudius-Schule;35;34;1;25;20;5;49;46;3;37;12;28;1;;24;4
+08G29;Wetzlar-Schule;48;47;1;17;13;4;53;52;1;34;19;18;6;;15;3
+08G30;Schule am Sandsteinweg;90;48;42;7;3;4;73;32;41;46;27;7;7;;5;2
+08G31;Janusz-Korczak-Schule;23;22;1;46;42;4;18;18;;18;;38;1;;33;5
+08K02;Hermann v. Helmholtz-Schule;19;18;1;25;22;3;21;20;1;21;;26;2;;23;3
+08G33;Schule am Fliederbusch;25;24;1;69;64;5;17;15;2;17;;58;5;;42;16
+08G34;Lisa-Tetzner-Schule;12;12;;55;43;12;16;14;2;16;;27;4;;24;3
+08G35;Schule in der Köllnischen Heide;16;15;1;55;20;35;9;8;1;9;;57;39;;33;24
+08G36;Löwenzahn-Schule;15;15;;19;13;6;19;18;1;19;;29;7;;23;6
+08G37;Rose-Oehmichen-Schule;13;11;2;12;11;1;23;19;4;;23;16;1;;12;4
+08K01;Walter-Gropius-Schule;62;61;1;;;;73;72;1;73;;;;;;
+08K06;Fritz-Karsen-Schule;98;96;2;;;;99;94;5;77;22;;;;;
+08K08;1.Gemeinschaftsschule Neukölln;111;106;5;;;;113;106;7;83;30;;;;;
+09G01;Bouché-Schule;;;Diese Daten werden nicht automatisiert ausgewertet.;;;;;;;;;;;;;
+09G03;Schule am Heidekampgraben;;;;;;;;;;;;;;;;
+09G04;Sonnenblumen-Schule;;;;;;;;;;;;;;;;
+09G05;Schule am Ginkobaum;;;;;;;;;;;;;;;;
+09G06;Melli-Beese-Schule;;;;;;;;;;;;;;;;
+09G07;Schule an der alten Feuerwache;;;;;;;;;;;;;;;;
+09G09;Heide-Schule;;;;;;;;;;;;;;;;
+09G10;Schule am Berg;;;;;;;;;;;;;;;;
+09G11;Schule am Pegasuseck;;;;;;;;;;;;;;;;
+09G13;Schule am Altglienicker Wasserturm;;;;;;;;;;;;;;;;
+09G14;Schule am Buntzelberg;;;;;;;;;;;;;;;;
+09G15;Schule am Mohnweg;;;;;;;;;;;;;;;;
+09G16;Wendenschloß-Schule;;;;;;;;;;;;;;;;
+09G17;Uhlenhorst-Schule;;;;;;;;;;;;;;;;
+09G18;Schule in der Köllnischen Vorstadt;;;;;;;;;;;;;;;;
+09G19;Amtsfeld-Schule;;;;;;;;;;;;;;;;
+09G20;Müggelheimer Schule;;;;;;;;;;;;;;;;
+09G21;Edison-Grundschule;;;;;;;;;;;;;;;;
+09G22;Schule an der Wuhlheide;;;;;;;;;;;;;;;;
+09G23;Hauptmann-von-Köpenick-Schule;;;;;;;;;;;;;;;;
+09G24;Müggelsee-Schule;;;;;;;;;;;;;;;;
+09G25;Müggelschlößchen-Grundschule;;;;;;;;;;;;;;;;
+09G26;Schule an den Püttbergen;;;;;;;;;;;;;;;;
+09G27;Friedrichshagener Schule;;;;;;;;;;;;;;;;
+09G29;Schmöckwitzer Insel-Schule;;;;;;;;;;;;;;;;
+09G30;Kiefholz-Grundschule;;;;;;;;;;;;;;;;
+10G01;Paavo-Nurmi-Grundschule;5;5;;28;26;2;7;6;1;7;;35;27;8;35;15
+10G03;Selma-Lagerlöf-Grundschule;35;35;;12;11;1;36;35;1;22;14;14;9;4;13;1
+10G04;Falken-Grundschule;16;14;2;6;4;2;12;11;1;12;;5;2;3;3;2
+10G05;Ebereschen-Grundschule;6;6;;22;16;6;9;9;;5;4;17;16;1;13;4
+10G06;Bruno-Bettleheim-Grundschule;33;33;;15;14;1;24;23;1;24;;22;20;2;13;9
+10G07;Karl-Friedrich-Friesen-Grundschule;38;38;;8;3;5;36;36;;15;21;11;8;3;9;2
+10G08;Wilhelm-Busch-Grundschule;13;12;1;28;22;6;8;8;;8;;30;29;1;17;13
+10G09;Grundschule am Bürgerpark;14;14;;38;29;9;22;22;;22;;38;34;4;30;8
+10G10;Peter-Pan-Grundschule;5;3;2;20;17;3;12;12;;12;;8;7;1;6;2
+10G11;Grundschule an der Mühle;14;14;;15;10;5;20;20;;12;8;15;15;;6;9
+10G12;Grundschule an der Geißenweide;19;19;;11;9;2;18;18;;18;;10;6;4;4;6
+10G13;Johann-Strauß-Grundschule;29;27;2;4;2;2;40;39;1;15;25;6;3;3;3;3
+10G14;Grundschule unter dem Regenbogen;10;8;2;40;11;29;4;2;2;4;;35;30;5;25;10
+10G16;Grundschule am Fuchsberg;6;3;3;9;3;6;6;5;1;1;5;14;5;9;13;1
+10G17;Beatrix-Potter-Grundschule;12;11;1;14;11;3;2;2;;;2;25;23;2;11;14
+10G18;Pusteblume-Grundschule;19;19;;13;9;4;28;28;;6;22;13;10;3;9;4
+10G19;Bücherwurm-Schule am Weiher;14;14;;8;6;2;7;7;;7;;14;12;2;10;4
+10K10;Wolfgang-Amadeus-Mozart-Schule;5;5;;53;46;7;7;7;;1;6;33;32;1;10;20
+10G22;Kolibri-Grundschule;23;23;;17;17;;24;24;;12;12;23;17;6;13;10
+10G25;Grundschule am Schleipfuhl;4;4;;42;39;3;3;3;;;3;28;26;2;17;11
+10G26;Friedrich-Schiller-Grundschule;16;15;1;7;6;1;21;19;2;3;18;7;5;2;4;3
+10G28;Grundschule am Hollerbusch;27;27;;32;29;3;20;20;;9;11;29;23;6;12;17
+10G29;Grundschule an der Wuhle;18;18;;26;23;3;5;5;;2;3;35;33;2;15;20
+10G30;Mahlsdorfer Grundschule;8;7;1;4;3;1;10;9;1;4;6;6;4;2;1;5
+10G31;Franz-Carl-Achard-Grundschule;15;15;;5;5;;15;9;6;15;;1;;1;1;
+10G32;Kiekemal-Schule;3;3;;9;7;2;13;8;5;3;10;9;7;2;6;3
+10G33;Ulmen-Grundschule;13;12;1;8;4;4;13;9;4;13;;18;15;3;7;11
+10G34;Schule am grünen Stadtrand;7;7;;12;11;1;8;8;;2;6;12;11;1;9;3
+10G35;MarcanaGrundschule;9;9;;35;34;1;14;14;;14;;29;28;1;26;3
+11G01;Sonnenuhr-Schule;22;22;;20;7;13;19;16;3;11;8;12;3;9;8;4
+11G02;Schule am Roederplatz;23;22;1;55;33;22;25;25;;24;1;53;28;25;37;12
+11G03;Schule im Gutspark;27;27;;18;6;12;22;22;;11;10;21;13;8;21;
+11G05;Schule auf dem lichten Berg;7;6;1;43;28;15;13;13;;13;;46;39;7;33;13
+11G06;Adam-Ries-Schule;3;2;1;21;12;9;2;;2;2;;25;13;12;21;4
+11G07;Hermann-Gmeiner-Schule;2;2;;76;29;47;4;3;1;4;;74;38;36;61;13
+11G08;Robinson-Schule;21;19;2;45;22;23;25;25;;9;16;25;22;3;19;6
+11G09;Bürgermeister-Ziethen-Schule;20;16;4;34;19;15;11;11;;11;;36;30;6;31;5
+11G10;Schule im Ostseekarree;7;7;;50;43;7;8;;8;4;4;45;36;9;33;12
+11G11;Bernhard-Grzimek-Grundschule;23;21;2;54;46;8;18;17;1;18;;32;30;2;22;10
+11G12;Lew-Tolstoi-Schule (inkl.ESB);85;48;37;12;6;6;71;44;27;58;13;33;29;4;26;7
+11G13;Karlshorster Schule;10;7;3;49;12;37;12;11;1;3;9;57;42;15;40;17
+11G14;Richard-Wagner-Schule;7;5;2;20;6;14;21;16;5;15;6;18;12;6;13;5
+11G16;Schule an der Victoriastadt;34;33;1;40;3;37;31;30;1;28;3;38;18;20;26;12
+11G17;Brodowin-Schule;3;3;;42;23;19;1;1;;1;;48;33;15;38;10
+11G18;Schule am Wilhelmsberg;23;19;4;50;23;27;21;21;;10;11;39;20;19;25;14
+11G19;Obersee-Schule;33;33;;4;0;4;29;29;;21;8;18;9;9;15;3
+11G21;Schule am Faulen See;16;16;;18;14;4;20;19;1;19;1;31;25;6;25;6
+11G22;Martin-Niemöller-Schule;7;7;;50;37;13;12;12;;12;;41;36;5;34;7
+11G23;Friedrichsfelder Schule;24;24;;38;21;17;30;28;2;26;4;33;26;7;21;12
+11G25;Schule am Wäldchen;11;11;;39;33;6;32;32;;8;24;17;10;7;15;2
+11G26;Randow-Schule;6;6;;26;23;3;7;7;;4;3;21;21;;19;3
+11G28;Feldmark-Schule;10;9;1;27;21;6;12;12;;12;;20;16;4;19;1
+11G29;Matibi-Schule;31;28;3;28;20;8;11;11;;1;10;80;70;10;68;12
+11G31;Schmetterlings-Grundschule;4;3;1;22;20;2;18;18;;9;9;30;29;1;27;2
+11G32;Hans-Rosenthal-Grundschule;5;5;;46;30;16;3;3;;3;;37;29;8;34;3
+11G33;33. Grundschule;11;11;;4;1;3;17;17;;16;1;5;4;1;5;
+11G34;34. Grundschule (Aufn. durch Zuweisung);11;11;;;;;36;35;1;23;13;29;25;4;28;1
+11G35;35. Grundschule (Aufn. durch Zuweisung);;;;;;;24;24;;24;;46;42;4;33;13
+12G01;Havelmüller-Grundschule;8;6;2;27;20;7;9;8;1;9;;32;31;1;19;12
+12G02;Grundschule am Schäfersee;12;3;9;21;8;13;22;7;15;1;20;34;28;6;22;12
+12G03;Reginhard-Grundschule;6;3;3;23;8;15;10;1;9;;9;34;19;15;7;27
+12G04;Till-Eulenspiegel-Grundschule;20;17;3;17;10;7;48;45;3;24;22;15;12;3;8;7
+12G05;Kolumbus-Grundschule;39;33;6;37;21;16;35;30;5;;29;45;31;14;16;29
+12G06;Hausotter-Grundschule;9;6;3;43;30;13;1;1;;1;;46;31;15;27;19
+12G07;Mark-Twain-Grundschule;13;12;1;18;13;5;21;19;2;;21;29;22;7;12;17
+12G09;Grundschule an der Peckwisch;22;21;1;78;68;10;22;21;1;5;14;57;52;5;27;30
+12G10;Peter-Witte-Grundschule;51;50;1;21;19;2;50;49;1;27;21;18;17;1;9;9
+12G11;Ringelnatz-Grundschule;12;11;1;33;22;11;17;15;2;2;14;31;28;3;20;11
+12G12;Borsigwalder-Grundschule;32;31;1;24;16;8;57;55;2;29;23;17;16;1;1;16
+12G13;Franz-Marc-Grundschule;23;20;3;20;5;15;31;28;3;21;8;21;20;1;9;12
+12G14;Alfred-Brehm-Grundschule;17;16;1;17;7;10;22;18;4;;22;18;12;6;3;15
+12G15;Hoffmann-von-Fallersleben-Grundschule;23;23;;16;10;6;34;34;;8;25;33;32;1;15;18
+12G17;Ellef-Ringnes-Grundschule;3;3;;4;1;3;6;5;1;;6;7;5;2;4;1
+12G18;Grundschule am Tegelschen Ort;4;2;2;3;2;1;8;4;4;8;;5;3;2;3;2
+12G19;Münchhausen-Grundschule;28;28;;38;24;14;41;41;;14;23;37;37;;22;15
+12G20;Grundschule am Vierrutenberg;36;36;;13;6;7;38;38;;27;9;17;15;2;9;8
+12G21;Grundschule am Fließtal;27;26;1;38;14;24;43;43;;12;27;33;31;2;25;8
+12G22;Gustav-Dreyer-Grundschule;29;26;3;6;2;4;31;28;3;23;;13;11;2;7;6
+12G23;Victor-Gollancz-Grundschule;11;11;;29;15;14;20;19;1;18;;32;32;;27;5
+12G24;Renée-Sintenis-Grundschule;16;16;;34;13;21;16;15;1;15;;38;35;3;29;9
+12G26;Märkische-Grundschule;114;74;40;0;0;;108;67;41;81;26;;;;;
+12G27;Chamisso-Grundschule;17;17;;41;36;5;18;17;1;6;11;43;39;4;15;28
+12G28;Grundschule in den Rollbergen;3;3;;84;71;13;3;2;1;2;;68;66;2;36;32
+12G29;Hermann-Schulz-Grundschule;9;8;1;31;21;10;8;7;1;8;;29;27;2;11;18
+12G30;Reineke-Fuchs-Grundschule;8;7;1;42;35;7;2;2;;2;;52;44;8;24;28
+12K12;Campus Hannah-Höch;58;58;;;;;49;47;2;44;;22;22;;13;9
+12G32;Charlie-Chaplin-Grundschule;13;12;1;88;65;23;12;12;;;12;87;70;17;56;31
+12G33;Lauterbach-Grundschule;20;19;1;61;46;15;22;22;;;21;78;73;5;39;39
+12G34;Otfried-Preußler-Grundschule;4;4;;14;5;9;3;2;1;3;;6;5;1;4;2

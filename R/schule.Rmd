@@ -1,0 +1,93 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+
+```{r}
+library(data.table)
+library(ggmap)
+```
+
+
+
+
+```{r}
+DT.places <- fread("../data/DT1.csv")
+DT.movements <- fread("../data/DT2.csv")
+
+DT <- merge(DT.places, DT.movements, by = c("School_ID", "Name"), all.x = T)
+DT.geo <- fread("../data/Schulen_-_Berlin.csv")
+
+
+DT.geo$School_ID <- sub(".*\\.", "", DT.geo$GmlID)
+DT.geo$X <- DT.geo$X / 100000
+DT.geo$Y <- DT.geo$Y / 100000
+
+
+DT[, acceptance_ratio_19_20 := Places_19_20 / Reg_19_20 * 100]
+DT[, acceptance_ratio_20_21 := Places_20_21 / Reg_20_21 * 100]
+
+DT[, exit_rate_19_20 := AUS_Wechselwunsch_Total_19_20 / Places_19_20 * 100]
+DT[, exit_rate_20_21 := AUS_Wechselwunsch_Total_20_21 / Places_20_21 * 100]
+
+DT[, inbound_rate_19_20 := HIN_Wechselwunsch_Total_19_20 / Places_19_20 * 100]
+DT[, inbound_rate_20_21 := HIN_Wechselwunsch_Total_20_21 / Places_20_21 * 100]
+
+DT[, Wechselwunsch_balance_19_20:=inbound_rate_19_20-exit_rate_19_20]
+DT[, Wechselwunsch_balance_20_21:=inbound_rate_20_21-exit_rate_20_21]
+
+DT$ESB_capacity_balance_2019_20 <- DT$Places_19_20 - DT$Reg_ESB_19_20
+DT$ESB_capacity_balance_2020_21 <- DT$Places_19_20 - DT$Reg_ESB_20_21
+
+DT$acceptance_ratio_19_20 <- round(DT$acceptance_ratio_19_20, 0)
+DT$acceptance_ratio_20_21 <- round(DT$acceptance_ratio_20_21,0)
+
+DT$inbound_rate_19_20 <- round(DT$inbound_rate_19_20, 0)
+DT$inbound_rate_20_21 <- round(DT$inbound_rate_20_21,0)
+DT$exit_rate_19_20 <- round(DT$exit_rate_19_20, 0)
+DT$exit_rate_20_21 <- round(DT$exit_rate_20_21, 0)
+
+DT$Wechselwunsch_balance_19_20 <- round(DT$Wechselwunsch_balance_19_20, 0)
+DT$Wechselwunsch_balance_20_21 <- round(DT$Wechselwunsch_balance_20_21, 0)
+
+DT <- merge(DT, DT.geo, by = "School_ID", all.x = T)
+```
+
+
+# Geocode Schools
+```{r}
+register_google(key = "XXXXXXX")
+
+geocode.addresses <- function(DT) {
+  DT.has.address <- DT[!is.na(ADRESSE)]
+  DT.no.address <- DT[is.na(ADRESSE)]
+
+  DT.has.address$address <- paste(DT.has.address$ADRESSE, " ", DT$ORTSTEIL, " ", DT$F_PLZ)
+
+  DT.with.coord <- mutate_geocode(DT.has.address, address, key = "AIzaSyCTvVec55sTt4aymZ4Vin_P3nJ6WD2IHLk")
+  DT.has.address.coord <- DT.with.coord[, c("School_ID", "Name", "lon", "lat")]
+
+  DT.no.address$address <- paste(DT.no.address$Name, " ", "Schule Berlin Germany")
+  DT.no.address <- mutate_geocode(DT.no.address, address, key = "AIzaSyCTvVec55sTt4aymZ4Vin_P3nJ6WD2IHLk")
+  DT.no.address.coord <- DT.missing.address[, c("School_ID", "Name", "lon", "lat")]
+
+  DT.all.coord <- rbind(DT.has.address.coord, DT.no.address.coord)
+ 
+
+  fwrite(DT.all.coord, "../data/schools_coordinates.csv")
+}
+
+#geocode.addresses(DT)
+## manual adjustment necessary !!!!
+```
+
+```{r}
+DT.school_coord <- fread("data/schools_coordinates.csv")
+
+DT.with.geo <- merge(DT, DT.school_coord[,c("School_ID","lon","lat")], by = "School_ID", all.x = T)
+View(DT.with.geo[is.na(lon),c("School_ID", "Name", "lon", "lat")])
+DT.with.geo <- unique(DT.with.geo,by=c("School_ID","Name"))
+
+fwrite(DT.with.geo, "../school_berlin.csv", sep = ";")
+```
