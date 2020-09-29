@@ -69,7 +69,7 @@ geocode.addresses <- function(DT) {
   DT.has.address.coord <- DT.with.coord[, c("School_ID", "Name", "lon", "lat")]
 
   DT.no.address$address <- paste(DT.no.address$Name, " ", "Schule Berlin Germany")
-  DT.no.address <- mutate_geocode(DT.no.address, address, key = "AIzaSyCTvVec55sTt4aymZ4Vin_P3nJ6WD2IHLk")
+  DT.no.address <- mutate_geocode(DT.no.address, address, key = "XXXXXXXXXXXXX")
   DT.no.address.coord <- DT.missing.address[, c("School_ID", "Name", "lon", "lat")]
 
   DT.all.coord <- rbind(DT.has.address.coord, DT.no.address.coord)
