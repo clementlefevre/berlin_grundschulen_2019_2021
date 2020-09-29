@@ -83,11 +83,16 @@ geocode.addresses <- function(DT) {
 ```
 
 ```{r}
-DT.school_coord <- fread("data/schools_coordinates.csv")
+DT.school_coord <- fread("../data/schools_coordinates.csv")
 
 DT.with.geo <- merge(DT, DT.school_coord[,c("School_ID","lon","lat")], by = "School_ID", all.x = T)
-View(DT.with.geo[is.na(lon),c("School_ID", "Name", "lon", "lat")])
+#View(DT.with.geo[is.na(lon),c("School_ID", "Name", "lon", "lat")])
 DT.with.geo <- unique(DT.with.geo,by=c("School_ID","Name"))
 
-fwrite(DT.with.geo, "../school_berlin.csv", sep = ";")
+# add jitter to coordinates to avoid overlapping on schools with ESB:
+DT.with.geo[,lat:=jitter(lat,100)]
+DT.with.geo[,lon:=jitter(lon,100)]
+
+head(DT.with.geo[,c("lon","lat")])
+fwrite(DT.with.geo, "../data/school_berlin.csv", sep = ";")
 ```
