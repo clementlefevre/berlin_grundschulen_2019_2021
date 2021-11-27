@@ -3,15 +3,9 @@ title: "R Notebook"
 output: html_notebook
 ---
 
-This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
-
-Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
-
 ```{r}
 
 library(tabulizer)
-
-#f <-  locate_areas("../data/anfrage_zu_einschulungen_2020.pdf", pages = 6)
 
 toCrop1.a <-  c(top = 203.46827956989, left = 23.65948129722, bottom = 811.759946236559, 
 right = 577.88108109843)
